@@ -511,3 +511,11 @@
 [18]: https://stroi.mos.ru/news/stantsiiu-mtsd-2-kur-ianovo-otkryli-dlia-passazhirov "Станцию МЦД-2 Курьяново открыли для пассажиров"
 [19]: https://stroi.mos.ru/news/mer-dal-start-prokhodkie-tonnielia-biriuliovskoi-linii-mietro-miezhdu-stantsiiami-ostrov-miechty-i-klienovyi-bul-var "Прогноз пассажиропотока Бирюлёвской линии"
 [20]: https://www.mos.ru/news/item/130708073/ "Станции на Бирюлёвской линии построят с островными и береговыми платформами: публикация 2023 года"
+
+## License / Citation
+
+* **License:** Original textual content, editorial structure, tables, and text-based diagrams in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+* **SPDX identifier:** `CC-BY-4.0`
+* **Third-party materials:** Photographs, architectural renders, logos, trademarks, quoted materials, and linked external content are not covered by this license unless explicitly stated otherwise.
+* **Preferred citation:** Grigoriy L. Dedenko, *«Метро как цех будущего: как строят „Курьяново“ — от форшахты до световых балок»*, GitHub repository, 2026: [Gendalf71/Kurjanovo](https://github.com/Gendalf71/Kurjanovo).
+
